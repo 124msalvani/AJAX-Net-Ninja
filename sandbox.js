@@ -18,7 +18,7 @@ console.log(1);
 console.log(2);
 
 getTodos((err, data) => {
-    console.log("callback fired");
+    console.log("callback fired :)");
    if(err){
     console.log(err);
    } else {
